@@ -25,7 +25,7 @@ As an African-American, I was motivated to explore this topic after hearing seve
 * **us-counties.csv** - data on number of COVID-19 cases and death by US county by date
 
 ## Results
-The results of this code are available on my blog post located here: 
+The results of this code are available on my blog post located [here](https://medium.com/@dujamaa/covid-19-disproportionately-effects-americas-wealthiest-counties-and-minority-communities-4eaf751a724b). 
 * The average number of COVID-19 cases and deaths per County in majority Black Counties is higher than the National Average
 * The average number of COVID-19 cases and deaths per County is highest amongst the Nation's top 1% Highest Income Counties 
 * The COVID-19 interventions of shutting down Public schools, shutting down Dine-in restaurants, and restricting the size of gatherings seem to have had the most impact on COVID-19.
